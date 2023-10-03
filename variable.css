@@ -1,0 +1,16 @@
+:root {
+  --bg-cream: #f2eae2;
+  --bg-white: #fff;
+  --bg-deep-aquamarine: #3d8168;
+  --bg-deep-aquamarine-hover: #1a4032;
+  --img-mobile: url("./images/image-product-mobile.jpg");
+  --img-desktop: url("./images/image-product-desktop.jpg");
+  --text-font-montserrat: "Montserrat", sans-serif;
+  --text-font-fraunces: "Fraunces", serif;
+  --text-color-white: #fff;
+  --text-color-aurometal: #6c7289;
+  --text-color-gunmetal: #1c232b;
+  --text-color-deep-aquamarine: #3d8168;
+  --text-weight-lighter: 500;
+  --text-weight-bold: 700;
+}
