@@ -111,6 +111,7 @@ main {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  gap: 5px;
 }
 
 .perfume-card_footer-attribution {
